@@ -4,11 +4,12 @@ Deploying my first application via [Tanzu Community Edition](https://tanzucommun
 This page walks you through the following steps:
 
 1. Install [Tanzu Community Edition](https://tanzucommunityedition.io/docs/v0.12/cli-installation/).
-2. Create an [Unmanaged cluster](https://tanzucommunityedition.io/docs/v0.12/getting-started-unmanaged/).
-3. Install [kpack package](https://tanzucommunityedition.io/docs/v0.12/package-readme-kpack-0.5.3/).
-4. Install [kpack-dependencies package](https://tanzucommunityedition.io/docs/v0.12/package-readme-kpack-dependencies-0.0.27/).
-5. Build an OCI compliant image and Publish the image to your registry.
-6. Install and Deploy with [Knative serving](https://tanzucommunityedition.io/docs/v0.12/package-readme-knative-serving-1.0.0/).
+2. Install [Knative CLI](https://knative.dev/docs/client/install-kn/)
+3. Create an [Unmanaged cluster](https://tanzucommunityedition.io/docs/v0.12/getting-started-unmanaged/).
+4. Install [kpack package](https://tanzucommunityedition.io/docs/v0.12/package-readme-kpack-0.5.3/).
+5. Install [kpack-dependencies package](https://tanzucommunityedition.io/docs/v0.12/package-readme-kpack-dependencies-0.0.27/).
+6. Build an OCI compliant image and Publish the image to your registry.
+7. Install and Deploy with [Knative serving](https://tanzucommunityedition.io/docs/v0.12/package-readme-knative-serving-1.0.0/).
 
 
 ### Step 1 - Install [Tanzu Community Edition](https://tanzucommunityedition.io/docs/v0.12/cli-installation/)
